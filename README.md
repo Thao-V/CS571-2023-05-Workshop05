@@ -1,4 +1,5 @@
 # CS571 Workshop 04 - Continue
+## Please copy the solution of Workshop 04 here to continue.
 ## MIU Courses Review App
 1. Update the frontend to support Add/Edit/Delete a course. For deleting a course, you just need to display an alert to confirm `Do you want to delete this course?`. Please check the following code for Alert of React Native.
 ```JavaScript
